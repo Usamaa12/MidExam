@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mid Exam</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_city_selection">CitySelection</string>
+</resources>
